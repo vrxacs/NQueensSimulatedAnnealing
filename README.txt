@@ -1,0 +1,1 @@
+This is a simple implementation of the simulated annealing algorithm. It is used here to solve the N Queens problem.
